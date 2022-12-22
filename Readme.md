@@ -15,4 +15,4 @@ Kullandığım bazı özellikler:
 * UseContext for State Management
 * Axios
 
-#####Siteye ilk girişte konum bilgimiz isteniyor. İzin ver seçeneğine tıkladığımızda kaldığımız şehirle ilgili hava durumu karşımıza geliyor. Eğer izin vermessek default olarak koyduğum Eskişehir şehrinin hava durumu karşımıza gelmekte. Kullanıcı istediği şehri seçip  o şehrin haftalık hava durumuna erişebilir.
+*Siteye ilk girişte konum bilgimiz isteniyor. İzin ver seçeneğine tıkladığımızda kaldığımız şehirle ilgili hava durumu karşımıza geliyor. Eğer izin vermessek default olarak koyduğum Eskişehir şehrinin hava durumu karşımıza gelmekte. Kullanıcı istediği şehri seçip o şehrin haftalık hava durumuna erişebilir.*
